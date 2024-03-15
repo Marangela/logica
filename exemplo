@@ -1,0 +1,20 @@
+//exemplo de cadstro de sistemas
+const email = ' guilherme'
+const senha = 123456
+if ( email == 'guilherme' && senha == 123456) {
+    console.log ("login aprovado");
+    }else{
+        console.log ("login reprovado")
+    }
+
+
+
+// exemplo final
+const identidade = true
+const bemTrajado = true
+const vip = false
+if (identidade && bemTrajado || vip){
+    console.log ("sua entrada vai ser no camarote A");
+}else{
+    console.log("sua entrada sera paensas na pista");
+}
