@@ -1,6 +1,0 @@
-const peso  = 60
-const altura = 1.80
-
-
-const IMC =(peso/altura)**2
-
